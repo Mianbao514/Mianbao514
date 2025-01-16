@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @toribird_wee
-
-- ⚡ Fun fact: TBC BEST
+ 
 
 <!---
 Mianbao514/Mianbao514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
